@@ -53,5 +53,5 @@
       
 ### Results: 
       
-      Achieved 99% precision and 99% recall on the test set with Support Vector Classification
+      Achieved 99% AUC with Support Vector Classification and 98% AUC with XGBoost Classifier
 
