@@ -28,6 +28,8 @@
     3. Feature Extraction
       
       ●	Used TF-IDF vectorization
+
+      ● Used SMOTE to balance the imbalance dependent data
       
       ●	Combine multiple features using a unified feature matrix
     
